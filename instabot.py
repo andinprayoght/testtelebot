@@ -5,7 +5,7 @@ from pyrogram import Client, filters
 from pyrogram.types import Message, InputMediaPhoto, InputMediaVideo
 
 # Konfigurasi bot
-BOT_TOKEN = "7375007973:AAEqgy2z2J2-Xii_wOhea98BmwMSdW82bHM"
+BOT_TOKEN = "7431504934:AAGLU6yBYp1dlVq05PWunh7yTiR2TdwMUWM"
 APP_ID = 961780
 API_HASH = "bbbfa43f067e1e8e2fb41f334d32a6a7"
 bot = Client("social_downloader", bot_token=BOT_TOKEN, api_id=APP_ID, api_hash=API_HASH)
