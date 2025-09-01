@@ -164,4 +164,5 @@ def get_tiktok_media(tiktok_url):
             return {"type": "video", "urls": [play]}
     return None
 
-bot.run()
+if __name__ == "__main__":
+    bot.run()

@@ -6,7 +6,7 @@ import telebot
 from telebot import types
 from threading import Thread
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "7375007973:AAF6Z4CIsJA_mLc6W8HSTVKevKARjegTgFo")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "7431504934:AAGLU6yBYp1dlVq05PWunh7yTiR2TdwMUWM")
 bot = telebot.TeleBot(BOT_TOKEN)
 
 
